@@ -1,4 +1,5 @@
 Este es mi día 2 creado en Java con mis apuntes y detalles comentados en este apartado.
+
 ---------- Proyecto día 2: Calculadora básica ----------
 
 El planteamiento del proyecto es crear una calculadora básica con los conocimientos que dispongas de JAVA. En mi caso yo me puse un reto extra: Modularizar el máximo posible según mis conocimiento actuales. 
